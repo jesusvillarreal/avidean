@@ -1,0 +1,2 @@
+# Ignorar archivos de volcado de pila generados por ssh-keygen u otros programas
+*.stackdump
